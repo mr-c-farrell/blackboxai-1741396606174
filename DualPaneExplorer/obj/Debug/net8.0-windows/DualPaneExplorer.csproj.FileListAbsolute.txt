@@ -1,0 +1,14 @@
+/project/sandbox/user-workspace/DualPaneExplorer/bin/Debug/net8.0-windows/DualPaneExplorer
+/project/sandbox/user-workspace/DualPaneExplorer/bin/Debug/net8.0-windows/DualPaneExplorer.deps.json
+/project/sandbox/user-workspace/DualPaneExplorer/bin/Debug/net8.0-windows/DualPaneExplorer.runtimeconfig.json
+/project/sandbox/user-workspace/DualPaneExplorer/bin/Debug/net8.0-windows/DualPaneExplorer.dll
+/project/sandbox/user-workspace/DualPaneExplorer/bin/Debug/net8.0-windows/DualPaneExplorer.pdb
+/project/sandbox/user-workspace/DualPaneExplorer/obj/Debug/net8.0-windows/DualPaneExplorer.GeneratedMSBuildEditorConfig.editorconfig
+/project/sandbox/user-workspace/DualPaneExplorer/obj/Debug/net8.0-windows/DualPaneExplorer.AssemblyInfoInputs.cache
+/project/sandbox/user-workspace/DualPaneExplorer/obj/Debug/net8.0-windows/DualPaneExplorer.AssemblyInfo.cs
+/project/sandbox/user-workspace/DualPaneExplorer/obj/Debug/net8.0-windows/DualPaneExplorer.csproj.CoreCompileInputs.cache
+/project/sandbox/user-workspace/DualPaneExplorer/obj/Debug/net8.0-windows/DualPaneExplorer.dll
+/project/sandbox/user-workspace/DualPaneExplorer/obj/Debug/net8.0-windows/refint/DualPaneExplorer.dll
+/project/sandbox/user-workspace/DualPaneExplorer/obj/Debug/net8.0-windows/DualPaneExplorer.pdb
+/project/sandbox/user-workspace/DualPaneExplorer/obj/Debug/net8.0-windows/DualPaneExplorer.genruntimeconfig.cache
+/project/sandbox/user-workspace/DualPaneExplorer/obj/Debug/net8.0-windows/ref/DualPaneExplorer.dll

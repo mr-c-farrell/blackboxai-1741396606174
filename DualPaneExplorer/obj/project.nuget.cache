@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BJZPCLyXRzCs5TJLo2Foi4c+bHFGn3LBwmfei+8S+O13R0w/jRjyKMYc85CubDMGRl1hPZkY7Z9PziJwdEtXMw==",
+  "success": true,
+  "projectFilePath": "/project/sandbox/user-workspace/DualPaneExplorer/DualPaneExplorer.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.windowsdesktop.app.ref/8.0.3/microsoft.windowsdesktop.app.ref.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
